@@ -18,4 +18,3 @@
     하지만 이는 어렵기 때문에 URL
 
     -> HTTP: HyperText Trasnfer Protocol
-    
