@@ -15,3 +15,4 @@
 8. 장고 프로젝트를 실행한다. 폴더까지 나와서 mkdir project 치고 cd project 치고 django-admin startproject config 친다
 9. 이때 웹브라우저에서 127.0.0.1:8000 입력했을 때 서버 실행 여부를 확인할 수 있다.
 10. settings.py 파일에서 언어와 시간을 우리나라에 맞게 변경한다. 이러면 서버 실행했을 때 한국어로 나온다.
+-끄읕-
