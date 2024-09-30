@@ -1,18 +1,20 @@
-# MTV 패턴!
+# 1주차 요약 정리
 
-# 장고 시작하기 위해서.
-1. 폴더를 만든다.
-2. VS CODE에서 오픈한다.
-3. new terminal을 연다.
-4. window일 때는 powershell이 아닌 command로 바꿔줘야 하지만 나는 맥북이다.
-5. 가상환경을 생성한다. 이를 실행하는 명령어는 ''python3 -m venv venv'' 이다.
-    *가상환경이 무엇인가?
-     파이썬에서 독립적인 프로젝트를 위한 개별적인 공간이다.
-     프로젝트를 여러개 진행할 때 라이브러리 구분하여 관리할 수 있게 해준다.
-     다른 버전의 파이썬 라이브러리를 사용할 수 있게 해주기도 한다!
-6. 가상환경을 생성한다. 이를 실행하는 명령어는 venv/bin 폴더에 들어가 source activate 입력한다.
-7. pip3 install django를 누르고 장고를 설치한다.
-8. 장고 프로젝트를 실행한다. 폴더까지 나와서 mkdir project 치고 cd project 치고 django-admin startproject config 친다
-9. 이때 웹브라우저에서 127.0.0.1:8000 입력했을 때 서버 실행 여부를 확인할 수 있다.
-10. settings.py 파일에서 언어와 시간을 우리나라에 맞게 변경한다. 이러면 서버 실행했을 때 한국어로 나온다.
--끄읕-
+### 기초 백엔드 스터디 ###
+
+- **Part 2: 웹 기초 지식**
+
+    인터넷이란? 컴퓨터로 연결하여 TCP/IP 통신 프로토콜을 이용해 정보를 주고 받는 글로벌 컴퓨터 네트워크 시스템.
+
+    -> 프로토콜이란? 데이터 교환 방식을 정의하는 규칙 체계, 규칙의 집합.
+
+    웹이란? World Wide Web. 인터넷 통신망에서 웹사이트를 하이퍼 텍스트 마크업 언어로 작성하고 URL로 위치를 지정하고, 하이퍼텍스트 전송 프로토콜로 데이터를 전송하는 정보 시스템.
+
+    -> HyperText Mark-up Language: HTML
+
+    -> URL structure: 
+    Scheme://Domain_Name:Port/Path_to_the_file Parameters
+    IP주소를 정확하게 입력하면 google.com, naver.com 접속 가능
+    하지만 이는 어렵기 때문에 URL
+
+    -> HTTP: HyperText Trasnfer Protocol
